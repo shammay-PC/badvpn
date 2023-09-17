@@ -2,7 +2,6 @@
 
 Bad-VPN/UDPGW & Video Call, Audio Call and Online Gaming Service. Port: 7300
 
-<br>
 
 [shammay](https://shammay.ir/) 
 
@@ -20,8 +19,8 @@ To Start BadVPN type: `badvpn start`
 
 To Uninstall BadVPN type: `badvpn stop`
 
-Para Desinstalar BadVPN teclea: `badvpn uninstall`
-### BadVPN
+To Uninstall BadVPN type: `badvpn uninstall`
+### Ay VPN Plus
 
 [![](https://zaya.io/uploads/link-thumbnails/2023/09/06/J1foCgLsYYnbIe0D4JVCQmjCgwHAbL6hKSe3qsUe.png)](https://zaya.io/uploads/link-thumbnails/2023/09/06/J1foCgLsYYnbIe0D4JVCQmjCgwHAbL6hKSe3qsUe.png "AyVPN-Plus")
 
