@@ -1,42 +1,29 @@
-![](https://avatars1.githubusercontent.com/u/29370715?s=400&v=4)
+![]([https://avatars1.githubusercontent.com/u/29370715?s=400&v=4](https://zaya.io/uploads/link-thumbnails/2022/12/28/yVuwF2EZ3wq3vXEz1u40UXF8ULUqX8NTMp1mxf1h.jpg))
 
-Modulo para habilitar llamadas y juegos en linea.
+Bad-VPN/UDPGW & Video Call, Audio Call and Online Gaming Service. Port: 7300
+
 <br>
-![](https://img.shields.io/github/v/release/powermx/badvpn)
-![](https://img.shields.io/github/repo-size/powermx/badvpn)
-![](https://img.shields.io/github/stars/powermx/badvpn.svg) 
-![](https://img.shields.io/github/forks/powermx/badvpn.svg) 
-![](https://img.shields.io/github/license/powermx/badvpn.svg)
 
-## Servicios Instalados: UDP 7300 [BadVPN](https://https://github.com/powermx/badvpn "BadVPN")
+## Installed Services: UDP 7300 [BadVPN](https://github.com/shammay-PC/badvpn) "BadVPN")
 
-![](https://img.shields.io/badge/Ubuntu-16.04-orange)
-![](https://img.shields.io/badge/Ubuntu-16.10-orange)
-![](https://img.shields.io/badge/Ubuntu-18.04-orange)
-![](https://img.shields.io/badge/Ubuntu-18.10-orange)
-![](https://img.shields.io/badge/Ubuntu-19.04-orange)
-![](https://img.shields.io/badge/Ubuntu-19.10-orange)
-![](https://img.shields.io/badge/Debian-7-red)
-![](https://img.shields.io/badge/Debian-8-red)
-![](https://img.shields.io/badge/Debian-9-red)
-![](https://img.shields.io/badge/Debian-10-red)
 
-#### Instalacion
+#### Installation
 
-Instalación：`wget https://raw.githubusercontent.com/powermx/badvpn/master/easyinstall && bash easyinstall`
+Installation：
+`wget https://raw.githubusercontent.com/powermx/badvpn/master/easyinstall && bash easyinstall`
 
-##### Uso
+##### Use:
 
-Para Iniciar BadVPN teclea: `badvpn start`
+To Start BadVPN type: `badvpn start`
 
-Para Detener BadVPN teclea: `badvpn stop`
+To Uninstall BadVPN type: `badvpn stop`
 
 Para Desinstalar BadVPN teclea: `badvpn uninstall`
 ### BadVPN
 
-[![](https://github.com/powermx/badvpn/raw/master/pwrmx.jpg)](https://github.com/powermx/badvpn/raw/master/pwrmx.jpg "BadVPN - PowerMX")
+[![]([https://zaya.io/uploads/link-thumbnails/2023/09/06/J1foCgLsYYnbIe0D4JVCQmjCgwHAbL6hKSe3qsUe.png "AyVPN-Plus)
 
-> BadVPN - PowerMX http://powsitos.xyz
+> BadVPN - shammay http://shammay.ir
                 
 ----
 
