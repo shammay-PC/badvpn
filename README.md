@@ -11,7 +11,7 @@ Bad-VPN/UDPGW & Video Call, Audio Call and Online Gaming Service. Port: 7300
 #### Installation
 
 Installation：
-`wget https://raw.githubusercontent.com/powermx/badvpn/master/easyinstall && bash easyinstall`
+`wget https://raw.githubusercontent.com/shammay-PC/badvpn/master/easyinstall && bash easyinstall`
 
 ##### Use:
 
